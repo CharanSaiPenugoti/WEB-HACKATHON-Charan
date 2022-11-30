@@ -1,0 +1,40 @@
+.logo{
+    height:100px;
+    width:100px;
+}
+.hea{
+    position: relative;
+    color: rgb(45, 18, 154);
+}
+.btn:hover{
+    background-color:aliceblue;
+}
+.mainhead{
+    font-family:'Teko', sans-serif;
+    font-size: 60px;
+}
+.background{
+    position: relative;
+    height: 500px;
+    width: 1024px;
+}
+.spe{
+    position: relative;
+    text-align:center;
+}
+.parupu{
+    height: 250px;
+    width:250px;
+    position: relative;
+    top:20px;
+}
+#spec1{
+    position:relative;
+}
+.bannertext{
+    position: relative;
+}
+.con{
+    height: 300px;
+    width:300px;
+}
